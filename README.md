@@ -16,7 +16,7 @@
 
 ---
 
-full Demo Video is here :
+Full Demo Video is here :
 https://drive.google.com/file/d/16roDgLEW3_MDSZTLLswai8FWFdjZQNj-/view?usp=sharing
 ---
 
