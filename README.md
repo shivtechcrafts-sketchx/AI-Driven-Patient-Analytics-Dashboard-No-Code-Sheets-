@@ -16,6 +16,26 @@
 
 ---
 
+full Demo Video is here :
+https://drive.google.com/file/d/16roDgLEW3_MDSZTLLswai8FWFdjZQNj-/view?usp=sharing
+---
+
+Workflow :
+<img width="1920" height="1080" alt="Screenshot 2026-01-19 090559" src="https://github.com/user-attachments/assets/11d806d1-c8ce-4b70-8101-4a02e38774ce" />
+
+
+Sheet :
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/09f554e4-63e5-4b0d-813d-18399974d54a" />
+-----
+
+Dashboard :
+<img width="1920" height="1080" alt="Thesys dashboard" src="https://github.com/user-attachments/assets/74c38cf7-acb2-4793-a96b-6e1e928a8fd6" />
+<img width="1920" height="1080" alt="Screenshot 2026-01-19 090255" src="https://github.com/user-attachments/assets/7471b094-4937-413c-ad84-a29d4bc9d30c" />
+<img width="1920" height="1080" alt="Screenshot 2026-01-19 090226" src="https://github.com/user-attachments/assets/dacf2d26-1792-42ca-b3d8-c57c237798fc" />
+
+
+----
+
 ## ⚡ What is MedFlow AI?
 
 MedFlow AI is an intelligent hospital analytics system that automatically converts raw patient admission data into live dashboards using AI Agents inside n8n.
